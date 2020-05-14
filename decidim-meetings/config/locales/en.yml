@@ -354,6 +354,10 @@ en:
         create:
           invalid: There was a problem creating this meeting.
           success: You have created the meeting successfully.
+        edit:
+          back: Back
+          title: Edit Your Meeting
+          update: Update
         filters:
           category: Category
           category_prompt: Select a category
@@ -390,6 +394,7 @@ en:
           attendees: Attendees count
           back: Back to list
           contributions: Contributions count
+          edit_meeting: Edit Meeting
           going: Going
           join: Join meeting
           meeting_report: Meeting report
@@ -403,6 +408,9 @@ en:
             one: "%{count} slot remaining"
             other: "%{count} slots remaining"
           view: View
+        update:
+          invalid: There was a problem updating the meeting.
+          success: You have updated the meeting successfully.
       meetings_map:
         view_meeting: View meeting
       models:
