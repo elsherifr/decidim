@@ -29,4 +29,4 @@ group :development do
   gem "spring-watcher-listen", "~> 2.0"
   gem "web-console", "~> 3.5"
 end
-gem "decidim-deploy-heroku", git: "https://github.com/codegram/decidim-deploy-heroku.git"
+#gem "decidim-deploy-heroku", git: "https://github.com/codegram/decidim-deploy-heroku.git"
